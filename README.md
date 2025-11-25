@@ -1,4 +1,4 @@
-[![Deploy with Forgeon](https://forgeon.io/button)](https://forgeon.io/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fforgeon%2Fexamples%2Ftree%2Fmain%2Fpython%2Ffastapi&demo-title=FastAPI&demo-description=Use%20FastAPI%20on%20Forgeon%20with%20Serverless%20Functions%20using%20the%20Python%20Runtime.&demo-url=https%3A%2F%2Fforgeon-fastapi.forgeon.io%2F&demo-image=https://assets.forgeon.io/image/upload/v1669994600/random/python.png)
+[![Deploy with Forgeon](https://forgeon.io/images/button-deploy/png/deploy-to-forgeon-6.png)](https://forgeon.io/projects?import=1&no_upload=1&auto=0&git_url=https%3A%2F%2Fgithub.com%2Fforgeon-apps%2Ffastapi-boilerplate)
 
 # FastAPI + Forgeon
 
@@ -24,4 +24,4 @@ Your FastAPI application is now available at `http://localhost:3000`.
 
 Deploy the example using [Forgeon](https://forgeon.io?utm_source=github&utm_medium=readme&utm_campaign=forgeon-examples):
 
-[![Deploy with Forgeon](https://forgeon.io/button)](https://forgeon.io/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fforgeon%2Fexamples%2Ftree%2Fmain%2Fpython%2Ffastapi&demo-title=FastAPI&demo-description=Use%20FastAPI%20on%20Forgeon%20with%20Serverless%20Functions%20using%20the%20Python%20Runtime.&demo-url=https%3A%2F%2Fforgeon-fastapi.forgeon.io%2F&demo-image=https://assets.forgeon.io/image/upload/v1669994600/random/python.png)
+[![Deploy with Forgeon](https://forgeon.io/images/button-deploy/png/deploy-to-forgeon-6.png)](https://forgeon.io/projects?import=1&no_upload=1&auto=0&git_url=https%3A%2F%2Fgithub.com%2Fforgeon-apps%2Ffastapi-boilerplate)
